@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812680365314",
+    "project_id": "chatprograming-63f1c",
+    "storage_bucket": "chatprograming-63f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812680365314:android:9e65e2b244cde6c208ee1b",
+        "android_client_info": {
+          "package_name": "com.example.chatprograming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812680365314-fp80et99q6ggl0t151sjlp1njjmtcmo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrmt-5ymVns7IYjPiHED3TLd75eS0oLWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812680365314-fp80et99q6ggl0t151sjlp1njjmtcmo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
